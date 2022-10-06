@@ -162,10 +162,8 @@ Sales View
 Marketing View
 Supply chain View
 Executive View
-Products
 Support
 Overall Report
-Overall Report.gif
 
 Info Page
 
@@ -184,11 +182,6 @@ Supply chain View
 
 Executive View
 
-
-Products
-
-
-you can find the full report file here : Report
 
 #Project Outcome
 
